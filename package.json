@@ -1,0 +1,24 @@
+{
+  "name": "visualizer",
+  "version": "1.0.0",
+  "description": "This is a simple visualization project made using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashisad/sorting_visualizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashisad/sorting_visualizer/issues"
+  },
+  "homepage": "https://github.com/shashisad/sorting_visualizer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
